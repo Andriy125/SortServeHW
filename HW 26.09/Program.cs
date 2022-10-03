@@ -111,9 +111,14 @@ namespace ConsoleApp3
                         else
                         {
                             char[] char_array = enter_text.ToCharArray();
-                            Array.Reverse(char_array);
+                            int i = char_array.Length;
+
                             Console.Write("Reverse number: ");
-                            foreach (var item in char_array) Console.Write(item);
+                            while (i > 0)
+                            {
+                                i--;
+                                Console.Write(char_array[i]);
+                            }
                         }
 
                         Console.WriteLine("\nPush enter to go start menu");
@@ -134,7 +139,7 @@ namespace ConsoleApp3
                             double monthly_profit = 0;
                             int number_of_months_K = 0;
 
-                            while (S <= 11000.0)
+                            while (S < 11000.0)
                             {
                                 monthly_profit = (S / 100) * P;
                                 S += monthly_profit;
