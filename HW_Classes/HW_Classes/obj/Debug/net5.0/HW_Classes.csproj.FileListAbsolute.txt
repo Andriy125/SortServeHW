@@ -1,0 +1,16 @@
+C:\Users\GRAND\source\repos\HW_Classes\HW_Classes\obj\Debug\net5.0\HW_Classes.csproj.AssemblyReference.cache
+C:\Users\GRAND\source\repos\HW_Classes\HW_Classes\obj\Debug\net5.0\HW_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRAND\source\repos\HW_Classes\HW_Classes\obj\Debug\net5.0\HW_Classes.AssemblyInfoInputs.cache
+C:\Users\GRAND\source\repos\HW_Classes\HW_Classes\obj\Debug\net5.0\HW_Classes.AssemblyInfo.cs
+C:\Users\GRAND\source\repos\HW_Classes\HW_Classes\obj\Debug\net5.0\HW_Classes.csproj.CoreCompileInputs.cache
+C:\Users\GRAND\source\repos\HW_Classes\HW_Classes\bin\Debug\net5.0\HW_Classes.exe
+C:\Users\GRAND\source\repos\HW_Classes\HW_Classes\bin\Debug\net5.0\HW_Classes.deps.json
+C:\Users\GRAND\source\repos\HW_Classes\HW_Classes\bin\Debug\net5.0\HW_Classes.runtimeconfig.json
+C:\Users\GRAND\source\repos\HW_Classes\HW_Classes\bin\Debug\net5.0\HW_Classes.runtimeconfig.dev.json
+C:\Users\GRAND\source\repos\HW_Classes\HW_Classes\bin\Debug\net5.0\HW_Classes.dll
+C:\Users\GRAND\source\repos\HW_Classes\HW_Classes\bin\Debug\net5.0\HW_Classes.pdb
+C:\Users\GRAND\source\repos\HW_Classes\HW_Classes\obj\Debug\net5.0\HW_Classes.dll
+C:\Users\GRAND\source\repos\HW_Classes\HW_Classes\obj\Debug\net5.0\refint\HW_Classes.dll
+C:\Users\GRAND\source\repos\HW_Classes\HW_Classes\obj\Debug\net5.0\HW_Classes.pdb
+C:\Users\GRAND\source\repos\HW_Classes\HW_Classes\obj\Debug\net5.0\HW_Classes.genruntimeconfig.cache
+C:\Users\GRAND\source\repos\HW_Classes\HW_Classes\obj\Debug\net5.0\ref\HW_Classes.dll
